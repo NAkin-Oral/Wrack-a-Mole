@@ -2,7 +2,7 @@ body{
     justify-content: center;
     align-items: center;
     font-family: sans-serif;
-    background-image:linear-gradient(rgba(112,7,7,0.25),rgba(112, 7, 7, 0.25)),url(/cave.jpg);
+    background-image:linear-gradient(rgba(112,7,7,0.25),rgba(112, 7, 7, 0.25)),url(./cave.jpg);
     background-size: cover;
     text-align: center;
     color: white;}
@@ -21,7 +21,7 @@ body{
     height: 200px;
     width: 200px;
     border: none;
-    background: url(/ground.jpg);
+    background: url(./ground.jpg);
     background-size: cover;
     border-radius: 8%;
 }
